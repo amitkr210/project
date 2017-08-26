@@ -5,8 +5,6 @@
 int main()
 
 {
-printf("Switch into brach 2");
-printf("New File\n");
-printf("This is the new file;");
+printf("Hotfixing Issue\n");
 return 0;
 }
