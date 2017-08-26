@@ -5,6 +5,6 @@
 int main()
 
 {
-printf("Solving Issue1!!\n");
+printf(" Solving Issue1!!\n");
 return 0;
 }
