@@ -5,6 +5,9 @@
 int main()
 
 {
-printf("Hotfixing Issue\n");
+<<<<<<< HEAD
+=======
+printf(" Solving Issue1!!\n");
+>>>>>>> issue1
 return 0;
 }
