@@ -8,5 +8,8 @@ int main()
 printf("Switch Into testing Branch");
 printf("New File\n");
 printf("This is the new file;");
+int i=0;
+for(; i<10; i++)
+printf("%d\n",i);
 return 0;
 }
